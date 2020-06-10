@@ -26,5 +26,57 @@ h1{
   background-color: lightgrey;
 }
 
+h3{
+    font-size: 2em;
+    margin: 0px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-right: 0px;
+    background-color: lightgrey;
+}
+
+h1{
+    font-family: Arial, sans-serif;
+    font-size: 1.83em;
+    text-align: left;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding: 15px 0px 0px 15px;
+    background-color: darkgrey;
+}
+
+h3{
+    font-family: Arial, sans-serif;
+    font-size: 1.3em;
+    text-align: left;
+    background-color: darkred;
+}
+
+p{
+    margin: 15px;
+    padding: 15px;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+a{
+    text-decoration: none;
+}
+
+table{
+    border: 1px solid black;
+   padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 90%;
+    margin-left: 30px;
+}
+        
+        
+        
 
   

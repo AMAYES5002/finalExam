@@ -71,10 +71,10 @@ a:hover{
     color: pink;
 }
 
-table{
-    border: none;
+.atable{
+    border-spacing: 2px;
     padding: 5px 5px 2px 2px;
-    width: 90%;
+    width: 800px;
     margin-left: 30px;
         
 
